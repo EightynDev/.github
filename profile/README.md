@@ -39,9 +39,7 @@ Currently, we are making 2 games. One is a [Menu Template (solely developed by 8
         <sub><b>Kat (datkat21)</b></sub>
       </a>
       </td>
-    </tr>
-    <tr>
-    <td align="center" valign="top" width="14.28%">
+      <td align="center" valign="top" width="14.28%">
       <a href="https://unsharped.xyz">
         <img src="https://github.com/real-kwellercat.png" width="100px;" alt="iusebako"/>
         <br />
